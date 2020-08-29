@@ -4,6 +4,16 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.grow { transition: .2s ease-in-out;}
+.grow:hover { transform: scale(1.10); }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8462,7 +8472,7 @@ h1, h2, h3, h4, h5,
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 120px;
+  bottom: 80px;
   z-index: 2; }
 
 .mouse-icon {
