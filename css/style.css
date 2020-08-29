@@ -8159,10 +8159,10 @@ a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease;
-  color: #0562ad; }
+  color: #a0f669; }
   a:hover, a:focus {
     text-decoration: none;
-    color: #0562ad;
+    color: #a0f669;
     outline: none !important; }
 
 h1, h2, h3, h4, h5,
@@ -8172,7 +8172,7 @@ h1, h2, h3, h4, h5,
   font-weight: 400; }
 
 .text-primary {
-  color: #0562ad !important; }
+  color: #a0f669 !important; }
 
 .ftco-navbar-light {
   background: transparent !important;
